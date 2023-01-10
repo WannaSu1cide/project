@@ -1,0 +1,34 @@
+*{
+    margin :0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar {
+    height: 70px;
+    background-color: aqua;
+}
+
+li {
+  text-align: center;
+    font-size:  50px;
+    line-height: 70px;
+}
+
+
+button {
+    border-radius: 25%;
+    height: 70px;
+    width: 150px;
+}
+/* main{
+    display: flex;
+} */
+
+button,h2 {
+    text-transform: uppercase;
+        display: flex;
+    justify-content: center;
+    align-items: center;
+}
